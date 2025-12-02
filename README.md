@@ -12,3 +12,9 @@ Research by Dragonix, text by lepine908 and nokodraj. Presented by dragonix and 
 @nokodraj
 @lepine908
 
+This is an exposition to learn cyclones!
+MégaExposéCyclones.sb3, countain the scratch application file(.sb3) you can open it with scratch onilne and test our project!
+MegaExposeCyclones.html is a HTML file compilated by turbowarp packager that countain .sb3 file to easy open with browser
+textes_expocyc.odt is an open document text(libreoffice) countain texts for presentation mode
+Contact devs at lepine908.github.io
+Enjoy!
